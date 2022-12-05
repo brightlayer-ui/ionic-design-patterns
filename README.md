@@ -1,3 +1,5 @@
+> This repo has been archived and moved to [here](https://github.com/etn-ccis/blui-ionic-design-patterns).
+
 # Ionic Design Patterns
 
 [![](https://img.shields.io/circleci/project/github/brightlayer-ui/ionic-design-patterns/master.svg?style=flat)](https://circleci.com/gh/brightlayer-ui/ionic-design-patterns/tree/master)
