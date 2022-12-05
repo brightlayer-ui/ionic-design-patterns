@@ -1,4 +1,4 @@
-> This repo has been archived and moved to [here](https://github.com/etn-ccis/blui-ionic-design-patterns).
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-ionic-design-patterns).
 
 # Ionic Design Patterns
 
